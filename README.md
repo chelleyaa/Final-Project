@@ -14,7 +14,7 @@ Key Features
    c. XGBoost
    d. LightGBM
    e. CatBoost
-4. Comparative Analysis: Evaluates and compares the performance of each model based on standard metrics like accuracy, precision, recall, and F1-score.
+4. Comparative Analysis: Evaluates and compares the performance of each model based on standard metrics like accuracy, precision, recall, AUC, F1-score, and testing time.
 
 # Dataset
 This project uses the MIT-BIH Arrhythmia Database from PhysioNet. The dataset contains 48 half-hour ambulatory ECG recordings, obtained from 47 subjects studied by the BIH Arrhythmia Laboratory between 1975 and 1979. The recordings were digitized at 360 samples per second per channel with 11-bit resolution over a 10 mV range.
